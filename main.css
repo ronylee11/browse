@@ -2,3 +2,12 @@ body {
   background-color: #1d2428;
   color: white;
 }
+
+.card{
+    background-color: #2e313f;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+}
